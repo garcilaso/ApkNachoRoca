@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Nickelback</name>
+<icon src="img/icon.jpg" gap:platform="android" gap:density="ldpi" />
+<icon src="img/icon.jpg" gap:platform="android" gap:density="mdpi" />
+<icon src="img/icon.jpg" gap:platform="android" gap:density="hdpi" />
+<icon src="img/icon.jpg" gap:platform="android" gap:density="xhdpi" />
+
+<description>
+Información sobre el grupo de música canadiense: "Nickelback"</description>
+<preference name="permissions" value="none"/>
+
+<author href="https://example.com" email="garcilaso_92@hotmail.com">
+Borja García Martínez</author>
+
+</widget>
